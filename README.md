@@ -1,2 +1,2 @@
 # jayyang
-some resource concern knowledge learned in SICAU
+some resource and knowledge learned in SICAU
